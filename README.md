@@ -28,3 +28,4 @@ To run the script, first install the necessary Python libraries by running the f
 pip install requests colorama
 
 
+![Screenshot_1](https://github.com/user-attachments/assets/d99aff51-0f2b-4ec3-824c-bbd68d565d48)
