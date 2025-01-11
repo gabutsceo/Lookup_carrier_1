@@ -2,6 +2,9 @@
 
 ### Phone Number Validation Script
 
+Sign Up free 100 credits ClearoutPhone
+https://clearoutphone.io/
+
 This script allows you to validate phone numbers using the [ClearoutPhone API](https://clearoutphone.io/) by submitting them to the API, checking the status, and logging the results.
 
 ### Features
